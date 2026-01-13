@@ -67,7 +67,7 @@ img {
   height: 2px;
   background: var(--accent-gold);
   margin-top: 20px;
-  animation: loadLine 1.5s ease-in-out forwards;
+  animation: loadLine 3s ease-in-out forwards;
 }
 
 @keyframes pulse {
